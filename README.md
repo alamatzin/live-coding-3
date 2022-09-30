@@ -1,4 +1,3 @@
-@@ -0,0 +1,32 @@
 # Práctica de Live Coding 3
 
 ## Mangos y naranjas
